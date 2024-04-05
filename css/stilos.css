@@ -1,8 +1,10 @@
 h1{
     color:aqua;
     text-align: center;
-    font-size: 80px;
+    font-size: 50px;
     font-family:arial black ;
+    margin-top: 70px;
+    margin-bottom: 40px;
 }
 div.uno input{
 background-color: aqua;
